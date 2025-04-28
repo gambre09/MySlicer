@@ -1,2 +1,2 @@
 # MySlicer
-Slicer software AI implementeddd
+Slicer software AI implemented
