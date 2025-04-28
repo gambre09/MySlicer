@@ -1,2 +1,2 @@
 # MySlicer
-Slicer software AI implementedsss
+Slicer software AI implementedsw2fasas
